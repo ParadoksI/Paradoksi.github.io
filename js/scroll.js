@@ -178,6 +178,8 @@ updateContent();
 
 
 
+
+
 // Функция для запуска анимации чисел, когда они видимы на экране
 function animateNumbersWhenVisible() {
     var options = {
